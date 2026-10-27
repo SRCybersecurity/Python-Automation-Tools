@@ -1,4 +1,4 @@
-# Linux Security Audit Tool
+# Linux Hardening & Compliance Toolkit
 A lightweight Python-based Linux security auditing and hardening assessment tool designed to identify common system security issues and provide actionable remediation recommendations.
 The tool performs a basic security assessment of Linux hosts, including SSH configuration checks, critical file permission validation, firewall availability detection, and security audit reporting.
  </br>
