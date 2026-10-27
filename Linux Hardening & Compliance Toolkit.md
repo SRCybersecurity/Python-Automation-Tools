@@ -51,10 +51,11 @@ Linux operating system
 Appropriate permissions for reading security-sensitive system configuration. 
 Some checks may require elevated privileges depending on the target environment. 
 
-***Installation**
-Clone the repository: 
-git clone https://github.com/<your-username>/<your-repository>.git 
-cd "Python-Automation-Tools/Linux Hardening and Audit Tool" 
+***Installation*** </br>
+Clone the repository: </br>
+
+     git clone https://github.com/<your-username>/<your-repository>.git 
+     cd "Python-Automation-Tools/Linux Hardening and Audit Tool" 
 
 ***Run the audit tool:*** 
 
